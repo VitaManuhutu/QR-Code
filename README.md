@@ -37,8 +37,8 @@ Misalnya, Anda ingin membuat QR Code untuk situs web:
 - Scan menggunakan ponsel dan langsung akses halaman yang dituju!
 
 ## Tangkap Layar
-![Halaman Utama](Public/main.png)
-![Halaman QR](Public/qr.png)
+![Halaman Utama](public/main.png)
+![Halaman QR](public/qr.png)
 
 ## 🤝 Kontribusi
 
