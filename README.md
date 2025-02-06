@@ -6,10 +6,10 @@
 
 ## 🎯 Fitur Utama
 
-✅ **Pembuatan QR Code Instan** – Masukkan teks atau tautan, dan dapatkan QR Code dalam hitungan detik.
-✅ **Mendukung Berbagai Format** – Simpan QR Code dalam format gambar berkualitas tinggi.
-✅ **Mudah Digunakan** – Antarmuka yang sederhana, tidak perlu pengaturan rumit.
-✅ **Open Source** – Bebas digunakan dan dikembangkan lebih lanjut.
+- Pembuatan QR Code Instan – Masukkan teks atau tautan, dan dapatkan QR Code dalam hitungan detik.
+- Mendukung Berbagai Format – Simpan QR Code dalam format gambar berkualitas tinggi.
+- Mudah Digunakan – Antarmuka yang sederhana, tidak perlu pengaturan rumit.
+- Open Source – Bebas digunakan dan dikembangkan lebih lanjut.
 
 ## 🛠️ Instalasi & Penggunaan
 
@@ -35,6 +35,10 @@ Misalnya, Anda ingin membuat QR Code untuk situs web:
 - Hasilkan QR Code
 - Simpan sebagai file gambar
 - Scan menggunakan ponsel dan langsung akses halaman yang dituju!
+
+## Tangkap Layar
+![Halaman Utama] (Public/main.png)
+![Halaman QR] (Public/qr.png)
 
 ## 🤝 Kontribusi
 
